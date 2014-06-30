@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Votekick", "Votekick.csproj", "{6C2374AA-D2FD-4773-9ED0-2485084592C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerConnect", "ServerConnect.csproj", "{6C2374AA-D2FD-4773-9ED0-2485084592C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
